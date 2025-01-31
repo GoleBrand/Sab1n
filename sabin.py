@@ -422,7 +422,7 @@ def passwrd():
     print('\033[97;1m[\033[92;1m+\033[96;1m] CP :\033[0;93m %s '%(cp))
     linex()
     woi = input('\033[97;1m[\033[92;1m+\033[95;1m] \033[1;37m ENTER TO BACK')
-    os.system("python KESHAV.py")
+    os.system("python sabin.py")
     exit() 
 #--------------------[ METODE-B-API ]-----------------#
  
